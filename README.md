@@ -16,7 +16,7 @@ This project  manages contact details, including email, address, and photo uploa
   - After clicking the verification link, the user will be directed to a page to reset their password.
   - Once the password is reset, the user can log in with the new credentials.
  
-  ![Image](src/main/resources/static/images/Screenshot (7).png)
+  ![Image](https://github.com/durgesh4040/PhoneBook-SpringBoot/blob/2d6922c9e7fa49deac868079358708cee221421f/src/main/resources/static/images/Screenshot%20(7).png)
 
 
 

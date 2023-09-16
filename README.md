@@ -16,7 +16,7 @@ This project  manages contact details, including email, address, and photo uploa
   - After clicking the verification link, the user will be directed to a page to reset their password.
   - Once the password is reset, the user can log in with the new credentials.
  
-  ![Image]()
+  ![Image](src/main/resources/static/images/Screenshot (7).png)
 
 
 

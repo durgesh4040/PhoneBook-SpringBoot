@@ -39,6 +39,8 @@ To run the PhoneBook-SpringBoot application locally, follow these steps:
 ## Screenshots 📸
  
   ![Image](https://github.com/durgesh4040/PhoneBook-SpringBoot/blob/2d6922c9e7fa49deac868079358708cee221421f/src/main/resources/static/images/Screenshot%20(7).png)
-
+![homepage](https://github.com/durgesh4040/PhoneBook-SpringBoot/blob/1d48311d23824f650f252c75f387bbbee154cb93/src/main/resources/static/images/localhost_8080_user_addcontact.png)
+![userProfile](https://github.com/durgesh4040/PhoneBook-SpringBoot/blob/1d48311d23824f650f252c75f387bbbee154cb93/src/main/resources/static/images/localhost_8080_user_profile.png)
+![succeful](https://github.com/durgesh4040/PhoneBook-SpringBoot/blob/1d48311d23824f650f252c75f387bbbee154cb93/src/main/resources/static/images/localhost_8080_user_index.png)
 
 
